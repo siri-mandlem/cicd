@@ -7,6 +7,6 @@ class Factorial{
     }
     public static void main(String args[]){
         int fact=fact(5);    
-        System.out.println("Factorial of 5 is: "+fact);    
+        System.out.println("Factorial of 5 is: "+fact);  //checking  
     }
 }
